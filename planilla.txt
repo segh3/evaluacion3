@@ -1,0 +1,5 @@
+planilla principiante
+
+Lista de Jugadores
+| ID JUGADOR       | Nombre           | VALORANT         | FORTNITE         | FIFA             | TIPO             |
+| 1                | 1                | 1                | 1                | 1                | Principiante     |
